@@ -1,0 +1,6 @@
+streamlit
+biopython
+transformers
+torch
+python-dotenv
+sacremoses
